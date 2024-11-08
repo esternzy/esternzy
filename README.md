@@ -1,16 +1,38 @@
-### Hi there 👋
+# I am Emily Stern
 
-<!--
-**esternzy/esternzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me: 
+- From: 
+  - East Troy, WI 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Class: 
+  - Senior
+
+- Major(s)/Minor(s) with Emphases: 
+  - Computer Science with an AI minor
+
+- Miscellaneous:
+  - I play on the Carroll tennis team :tennis: 
+  - I love cats :kissing_cat:
+
+
+
+### Education:
+#### Caroll University, Waukesha, WI
+- Computer Science :computer:
+  - Problem Solving through Programming
+  - Introduction to JAVA
+  - Data Structures Using JAVA
+  - Computer Organization and Architecture
+  - Programming Languages
+  - Software Design and Development
+  - Informaiton Technology Management 
+  - Operating Systems & Web Master Fundamentals-Unix/Linux Apache
+  - Database Design and Implementation
+  - Mobile Application Development
+
+- Artificial Intelligence :robot:
+  - Foundations of Artifical Intelligence 
+  - Natural Language Processing and Human-AI Interactions
+  - Intoduciton to Applied Machine Learning
+  - Human-AI Interactions 
