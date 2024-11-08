@@ -2,9 +2,6 @@
 
 
 ### About Me: 
-- From: 
-  - East Troy, WI 
-
 - Class: 
   - Senior
 
